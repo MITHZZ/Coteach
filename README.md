@@ -11,5 +11,13 @@ Architecture style:
 
 
 
+
+Video Explanation :
+https://drive.google.com/file/d/1byjJUoUghOz7dZ7-tHLOmfYs64Yj3jjA/view?usp=sharing
+
+
 Gemma -- LLM used 
+
+
+
 
